@@ -3,10 +3,10 @@ Application Development and Emerging Technologies
 Academic Year 2025-2026
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
-- **Program:** [Your Academic Program]
-- **Section:** [Your Section]
+- **Name:**Jasmin B. Francisco
+- **Student ID:** 231004627
+- **Program:** BSCS
+- **Section:** 3B
 
 ## Repository Structure
 
@@ -48,3 +48,4 @@ cd week2_labs
 # Run applications
 python hello_flet.py
 python personal_info_gui.py
+
