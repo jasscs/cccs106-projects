@@ -8,9 +8,9 @@
 ## Git Configuration
 
 ### Repository Setup
-- **GitHub Repository:** [Your repository URL]
+- **GitHub Repository:** https://github.com/jasscs/cccs106-projects.git
 - **Local Repository:** ✅ Initialized and connected
-- **Commit History:** [Number] commits with descriptive messages
+- **Commit History:** [9] commits with descriptive messages
 
 ### Git Skills Demonstrated
 - ✅ Repository initialization and configuration
