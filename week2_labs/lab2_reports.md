@@ -3,14 +3,14 @@
 **Student Name:** Jasmin Francisco\
 **Student ID:** 231004627\
 **Section:** BSCS 3B\
-**Date:** September 1, 2025
+**Date:** September 3, 2025
 
 ## Git Configuration
 
 ### Repository Setup
 - **GitHub Repository:** https://github.com/jasscs/cccs106-projects.git
 - **Local Repository:** ✅ Initialized and connected
-- **Commit History:** 9
+- **Commit History:** 13
 
 ### Git Skills Demonstrated
 - ✅ Repository initialization and configuration
